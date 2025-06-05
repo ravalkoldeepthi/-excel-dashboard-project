@@ -11,9 +11,8 @@ This project contains an interactive Excel dashboard for analyzing sales data us
 - Interactive filters
 
 ## 🗂️ Files
-- `Dashboard.xlsx`: Main dashboard
-- `data/sales_data.csv`: Source data
-- `assets/`: Screenshots and visuals
+- `coffeeOrdersData.xlsx`: Source data
+- `dashboard.xlsx`: Source data
 
 ## 📌 How to Use
 1. Open `Dashboard.xlsx`
